@@ -2,12 +2,10 @@
 IAT 461 - Lab Tasks
 
 
-#Apple Wallet Moments
-
-##Problem Space
+## Problem Space
 Apple Wallet Moments follows Pathway 2 and is an addition to the Apple payment app, Apple Wallet. The current Apple Wallet is able to show that money was sent or received, however it does not preserve the occasion, message, relationship, or memory behind the payment. Our user survey found that approximately 89% of participants have forgotten what a transfer was for. So although transfers such as digital money gifts are fast and convenient, they lack emotional depth, context, and memorability.
 
-##Our Solution
+## Our Solution
 With Apple Wallet Moments we added 2 key features: **Card Personalization** and **Wallet Memories**
 
 When asked if they add notes, emojis, or context when sending digital money, 89% of participants in our user survey said that they have at least once before. **Card Personalization** allows for users to create custom cards when they are sending Apple Cash. Users have the ability to attach memes, images, voice notes, messages, memojis, and more. This helps personalize the transfer and convey a sense of connection and consideration rather than seeming cold.
