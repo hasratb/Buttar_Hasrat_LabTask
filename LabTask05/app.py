@@ -27,7 +27,7 @@ df = load_data()
 
 with st.expander("Look at Data:"):
     st.dataframe(df.head(20))
-    st.write(f"{len(df)} locations, {df["Neighborhood"].nunique()} neighborhoods.")
+    st.write(f"{len(df)} locations, {df['Neighborhood'].nunique()} neighborhoods.")
 
 st.sidebar.header("1. Select Features")
 
